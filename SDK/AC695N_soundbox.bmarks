@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cpu\br23\app_timer.c" open="1" top="0" tabpos="21">
+		<Cursor position="761" topLine="16" />
+	</File>
+	<File name="apps\common\dev_manager\dev_manager.c" open="1" top="0" tabpos="14">
+		<Cursor position="23425" topLine="808" />
+	</File>
+	<File name="include_lib\media\media_develop\media\channel_switch.h" open="1" top="0" tabpos="297">
+		<Cursor position="220" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_event_fun.c" open="1" top="0" tabpos="44">
+		<Cursor position="30296" topLine="1048" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_tone.h" open="1" top="0" tabpos="166">
+		<Cursor position="402" topLine="0" />
+	</File>
+	<File name="apps\common\usb\device\task_pc.c" open="1" top="0" tabpos="208">
+		<Cursor position="5798" topLine="209" />
+	</File>
+	<File name="apps\soundbox\power_manage\app_chargestore.c" open="1" top="0" tabpos="206">
+		<Cursor position="3895" topLine="51" />
+	</File>
+	<File name="cpu\br23\clock_cfg.h" open="1" top="0" tabpos="179">
+		<Cursor position="377" topLine="10" />
+	</File>
+	<File name="apps\common\device\fm\fm_inside\fm_inside.c" open="1" top="0" tabpos="266">
+		<Cursor position="1194" topLine="22" />
+	</File>
+	<File name="include_lib\media\media_develop\media\cpu\br23\asm\dac.h" open="1" top="0" tabpos="299">
+		<Cursor position="549" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\idle\idle.c" open="1" top="0" tabpos="20">
+		<Cursor position="8615" topLine="333" />
+	</File>
+	<File name="apps\common\ui\lcd\lcd_ui_api.c" open="1" top="0" tabpos="60">
+		<Cursor position="5386" topLine="181" />
+	</File>
+	<File name="apps\soundbox\task_manager\rtc\alarm_api.c" open="1" top="0" tabpos="173">
+		<Cursor position="3567" topLine="127" />
+	</File>
+	<File name="cpu\br23\audio_mic\effect_cfg.h" open="1" top="0" tabpos="116">
+		<Cursor position="331" topLine="0" />
+	</File>
+	<File name="apps\common\key\irkey.c" open="1" top="0" tabpos="250">
+		<Cursor position="3283" topLine="86" />
+	</File>
+	<File name="include_lib\system\fs\sdfile.h" open="1" top="0" tabpos="167">
+		<Cursor position="4112" topLine="121" />
+	</File>
+	<File name="apps\common\third_party_profile\common\custom_cfg.c" open="1" top="0" tabpos="264">
+		<Cursor position="10377" topLine="405" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcd1621.h" open="1" top="0" tabpos="316">
+		<Cursor position="200" topLine="0" />
+	</File>
+	<File name="apps\soundbox\module\ble_module.c" open="1" top="0" tabpos="322">
+		<Cursor position="18473" topLine="539" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\pwm_led.h" open="1" top="0" tabpos="245">
+		<Cursor position="2388" topLine="15" />
+	</File>
+	<File name="apps\soundbox\include\ui\ui_common.h" open="1" top="0" tabpos="159">
+		<Cursor position="256" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\a2dp_decoder.h" open="1" top="0" tabpos="156">
+		<Cursor position="664" topLine="7" />
+	</File>
+	<File name="include_lib\system\generic\printf.h" open="1" top="0" tabpos="41">
+		<Cursor position="183" topLine="0" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting\smartbox_music_info_setting.c" open="1" top="0" tabpos="306">
+		<Cursor position="7625" topLine="356" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_record.c" open="1" top="0" tabpos="91">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chargeIc_manage.h" open="1" top="0" tabpos="290">
+		<Cursor position="569" topLine="11" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\usb.h" open="1" top="0" tabpos="220">
+		<Cursor position="5813" topLine="120" />
+	</File>
+	<File name="apps\soundbox\log_config\lib_media_config.c" open="1" top="0" tabpos="3">
+		<Cursor position="2283" topLine="49" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_eq_drc_apply.h" open="1" top="0" tabpos="48">
+		<Cursor position="914" topLine="8" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\key_table\iokey_table.c" open="1" top="0" tabpos="255">
+		<Cursor position="619" topLine="15" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_pc.c" open="1" top="0" tabpos="73">
+		<Cursor position="108" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_ui.c" open="1" top="0" tabpos="248">
+		<Cursor position="1972" topLine="51" />
+	</File>
+	<File name="apps\common\config\include\bt_profile_cfg.h" open="1" top="0" tabpos="257">
+		<Cursor position="1099" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\JL_rcsp\adv_rcsp_protocol\rcsp_adv_opt.c" open="1" top="0" tabpos="28">
+		<Cursor position="2092" topLine="59" />
+	</File>
+	<File name="apps\soundbox\common\tone_table.c" open="1" top="0" tabpos="169">
+		<Cursor position="120" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_ble.c" open="1" top="0" tabpos="426">
+		<Cursor position="11285" topLine="445" />
+	</File>
+	<File name="apps\soundbox\include\app_config.h" open="1" top="0" tabpos="62">
+		<Cursor position="12590" topLine="324" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\fm\fm_api.c" open="1" top="0" tabpos="182">
+		<Cursor position="4862" topLine="135" />
+	</File>
+	<File name="cpu\br23\audio_enc\audio_enc.h" open="1" top="0" tabpos="155">
+		<Cursor position="324" topLine="0" />
+	</File>
+	<File name="cpu\br23\ui_driver\ui_common.c" open="1" top="0" tabpos="57">
+		<Cursor position="1982" topLine="16" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\fm\fm_rw.h" open="1" top="0" tabpos="33">
+		<Cursor position="435" topLine="0" />
+	</File>
+	<File name="cpu\br23\irflt.c" open="1" top="0" tabpos="251">
+		<Cursor position="3948" topLine="145" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\trans_data_demo\spp_trans_data.c" open="1" top="0" tabpos="263">
+		<Cursor position="2829" topLine="115" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\power_on\power_on.c" open="1" top="0" tabpos="121">
+		<Cursor position="6648" topLine="247" />
+		<BrowseMarks positions="2716" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\rtc\rtc_ui.h" open="1" top="0" tabpos="187">
+		<Cursor position="968" topLine="0" />
+	</File>
+	<File name="include_lib\system\device\ioctl_cmds.h" open="1" top="0" tabpos="188">
+		<Cursor position="749" topLine="0" />
+	</File>
+	<File name="cpu\br23\pwm_led.c" open="1" top="0" tabpos="244">
+		<Cursor position="9376" topLine="264" />
+	</File>
+	<File name="include_lib\system\task.h" open="1" top="0" tabpos="319">
+		<Cursor position="397" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\system\fs\fs.h" open="1" top="0" tabpos="138">
+		<Cursor position="1109" topLine="24" />
+	</File>
+	<File name="apps\common\third_party_profile\common\3th_profile_api.c" open="1" top="0" tabpos="261">
+		<Cursor position="5000" topLine="164" />
+	</File>
+	<File name="apps\soundbox\smartbox\func_cmd\rtc_func.c" open="1" top="0" tabpos="224">
+		<Cursor position="8008" topLine="10" />
+	</File>
+	<File name="cpu\br23\ui_driver\interface\ui_platform.c" open="1" top="0" tabpos="58">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\color_led\color_led_app.c" open="1" top="0" tabpos="194">
+		<Cursor position="533" topLine="2" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\hwi.h" open="1" top="0" tabpos="269">
+		<Cursor position="2089" topLine="49" />
+	</File>
+	<File name="apps\common\music\general_player.c" open="1" top="0" tabpos="143">
+		<Cursor position="5676" topLine="124" />
+	</File>
+	<File name="include_lib\btstack\le\le_user.h" open="1" top="0" tabpos="511">
+		<Cursor position="211" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\include\ui\style_led7.h" open="1" top="0" tabpos="65">
+		<Cursor position="737" topLine="26" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\audio\encode\encode_write_file.c" open="1" top="0" tabpos="148">
+		<Cursor position="14890" topLine="505" />
+	</File>
+	<File name="include_lib\system\generic\list.h" open="1" top="0" tabpos="239">
+		<Cursor position="2343" topLine="54" />
+	</File>
+	<File name="apps\soundbox\module\dsp_module.c" open="1" top="0" tabpos="323">
+		<Cursor position="10655" topLine="351" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_music.c" open="1" top="0" tabpos="89">
+		<Cursor position="5235" topLine="218" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\bt_common\bt_test_api.c" open="1" top="0" tabpos="183">
+		<Cursor position="316" topLine="3" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\uart.h" open="1" top="0" tabpos="227">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_energy_detect.h" open="1" top="0" tabpos="193">
+		<Cursor position="1293" topLine="15" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\board_ac695x_demo_cfg.h" open="1" top="0" tabpos="168">
+		<Cursor position="36391" topLine="691" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\update\update_loader_download.h" open="1" top="0" tabpos="307">
+		<Cursor position="239" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_linein.c" open="1" top="0" tabpos="71">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_handshake.c" open="1" top="0" tabpos="291">
+		<Cursor position="3907" topLine="64" />
+	</File>
+	<File name="include_lib\driver\device\usb\ch9.h" open="1" top="0" tabpos="223">
+		<Cursor position="10130" topLine="269" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_file.h" open="1" top="0" tabpos="141">
+		<Cursor position="2475" topLine="52" />
+	</File>
+	<File name="include_lib\system\os\os_api.h" open="1" top="0" tabpos="236">
+		<Cursor position="1647" topLine="99" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac6951g\board_ac6951g_cfg.h" open="1" top="0" tabpos="296">
+		<Cursor position="9547" topLine="196" />
+	</File>
+	<File name="apps\soundbox\user_api\app_special_play_api.c" open="1" top="0" tabpos="283">
+		<Cursor position="2974" topLine="45" />
+	</File>
+	<File name="apps\common\config\bt_profile_config.c" open="1" top="0" tabpos="260">
+		<Cursor position="3178" topLine="103" />
+	</File>
+	<File name="include_lib\media\media_develop\media\audio_encoder.h" open="1" top="0" tabpos="158">
+		<Cursor position="869" topLine="30" />
+	</File>
+	<File name="apps\soundbox\common\init.c" open="1" top="0" tabpos="9">
+		<Cursor position="1809" topLine="89" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\app_task_switch.c" open="1" top="0" tabpos="76">
+		<Cursor position="6424" topLine="237" />
+	</File>
+	<File name="cpu\br23\audio_mic\mic_stream.h" open="1" top="0" tabpos="285">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\vol_sync.c" open="1" top="0" tabpos="321">
+		<Cursor position="350" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\ui_driver\led7\led7_driver_cfg.h" open="1" top="0" tabpos="64">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\fm\fm_api.h" open="1" top="0" tabpos="181">
+		<Cursor position="1374" topLine="0" />
+	</File>
+	<File name="apps\common\device\fm\rda5807\RDA5807.c" open="1" top="0" tabpos="242">
+		<Cursor position="9950" topLine="438" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c" open="1" top="0" tabpos="258">
+		<Cursor position="1123" topLine="22" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\system\device\device_drive.h" open="1" top="0" tabpos="216">
+		<Cursor position="353" topLine="7" />
+	</File>
+	<File name="include_lib\system\sys_time.h" open="1" top="0" tabpos="175">
+		<Cursor position="69" topLine="0" />
+	</File>
+	<File name="apps\common\key\adkey.c" open="1" top="0" tabpos="54">
+		<Cursor position="817" topLine="0" />
+	</File>
+	<File name="include_lib\system\device\vm.h" open="1" top="0" tabpos="305">
+		<Cursor position="587" topLine="12" />
+	</File>
+	<File name="apps\common\third_party_profile\ancs_client_demo\le_ancs_client.c" open="1" top="0" tabpos="190">
+		<Cursor position="26295" topLine="909" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\smartbox\func_cmd\linein_func.c" open="1" top="0" tabpos="52">
+		<Cursor position="1379" topLine="36" />
+	</File>
+	<File name="apps\soundbox\third_party_profile\ancs_client_demo\ancs_client_demo.c" open="1" top="0" tabpos="325">
+		<Cursor position="0" topLine="140" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\music\breakpoint.c" open="1" top="0" tabpos="164">
+		<Cursor position="2078" topLine="37" />
+	</File>
+	<File name="apps\soundbox\ui\lcd\STYLE_02\fm_action.c" open="1" top="0" tabpos="195">
+		<Cursor position="1435" topLine="21" />
+	</File>
+	<File name="apps\common\audio\decode\decode.c" open="1" top="0" tabpos="95">
+		<Cursor position="89" topLine="2" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\music\music_player.h" open="1" top="0" tabpos="139">
+		<Cursor position="1212" topLine="12" />
+	</File>
+	<File name="apps\soundbox\module\ble_module.h" open="1" top="0" tabpos="330">
+		<Cursor position="879" topLine="5" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_idle.c" open="1" top="0" tabpos="87">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\adc_api.h" open="1" top="0" tabpos="81">
+		<Cursor position="2032" topLine="38" />
+	</File>
+	<File name="include_lib\system\init.h" open="1" top="0" tabpos="42">
+		<Cursor position="79" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\usb\host\usb_host.c" open="1" top="0" tabpos="219">
+		<Cursor position="19156" topLine="615" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_fm_emitter.c" open="1" top="0" tabpos="82">
+		<Cursor position="2500" topLine="70" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_bt.h" open="1" top="0" tabpos="278">
+		<Cursor position="186" topLine="0" />
+	</File>
+	<File name="apps\soundbox\app_main.c" open="1" top="0" tabpos="37">
+		<Cursor position="577" topLine="5" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_multimedia_charging_bin\board_ac695x_multimedia_charging_bin.h" open="1" top="0" tabpos="270">
+		<Cursor position="35310" topLine="653" />
+	</File>
+	<File name="include_lib\media\media_develop\media\audio_base.h" open="1" top="0" tabpos="147">
+		<Cursor position="1878" topLine="34" />
+	</File>
+	<File name="apps\soundbox\board\br23\irq_config.c" open="1" top="0" tabpos="5">
+		<Cursor position="2181" topLine="43" />
+	</File>
+	<File name="apps\soundbox\soundcard\soundcard.c" open="1" top="0" tabpos="295">
+		<Cursor position="2567" topLine="121" />
+	</File>
+	<File name="cpu\br23\audio_common\audio_link.h" open="1" top="0" tabpos="276">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\common\dev_manager\dev_reg.h" open="1" top="0" tabpos="238">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\aec_user.h" open="1" top="0" tabpos="280">
+		<Cursor position="627" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_switch_fun.c" open="1" top="0" tabpos="46">
+		<Cursor position="25236" topLine="804" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\audio_dec\tone_player.c" open="1" top="0" tabpos="66">
+		<Cursor position="6902" topLine="166" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\le_common.h" open="1" top="0" tabpos="259">
+		<Cursor position="4194" topLine="96" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\linein\linein_dev.c" open="1" top="0" tabpos="233">
+		<Cursor position="2626" topLine="76" />
+	</File>
+	<File name="include_lib\btctrler\btctrler_task.h" open="1" top="0" tabpos="310">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="include_lib\system\device\adkey.h" open="1" top="0" tabpos="101">
+		<Cursor position="120" topLine="0" />
+	</File>
+	<File name="cpu\br23\overlay_code.c" open="1" top="0" tabpos="152">
+		<Cursor position="2503" topLine="52" />
+	</File>
+	<File name="apps\common\device\fm_emitter\qn8007\qn8007.c" open="1" top="0" tabpos="292">
+		<Cursor position="1262" topLine="33" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\charge.h" open="1" top="0" tabpos="212">
+		<Cursor position="2744" topLine="59" />
+	</File>
+	<File name="apps\soundbox\task_manager\rtc\rtc_simulate.c" open="1" top="0" tabpos="17">
+		<Cursor position="1761" topLine="47" />
+	</File>
+	<File name="cpu\br23\uart_dev.c" open="1" top="0" tabpos="106">
+		<Cursor position="23264" topLine="856" />
+	</File>
+	<File name="include_lib\btstack\le\att.h" open="1" top="0" tabpos="328">
+		<Cursor position="719" topLine="85" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcdseg.c" open="1" top="0" tabpos="79">
+		<Cursor position="21827" topLine="740" />
+	</File>
+	<File name="apps\soundbox\ui\lcd\STYLE_02\clock_action.c" open="1" top="0" tabpos="174">
+		<Cursor position="11025" topLine="450" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\irflt.h" open="1" top="0" tabpos="252">
+		<Cursor position="7135" topLine="180" />
+	</File>
+	<File name="apps\common\audio\audio_digital_vol.c" open="1" top="0" tabpos="19">
+		<Cursor position="3220" topLine="121" />
+	</File>
+	<File name="apps\common\music\music_id3.h" open="1" top="0" tabpos="232">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="include_lib\driver\device\usb\usb_phy.h" open="1" top="0" tabpos="221">
+		<Cursor position="7257" topLine="146" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting\smartbox_eq_setting.c" open="1" top="0" tabpos="25">
+		<Cursor position="4879" topLine="165" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_fm.c" open="1" top="0" tabpos="85">
+		<Cursor position="3536" topLine="129" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\sdmmc.h" open="1" top="0" tabpos="241">
+		<Cursor position="1907" topLine="28" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_common.c" open="1" top="0" tabpos="68">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_ctrl.c" open="1" top="0" tabpos="424">
+		<Cursor position="14083" topLine="366" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec.h" open="1" top="0" tabpos="277">
+		<Cursor position="2993" topLine="73" />
+	</File>
+	<File name="apps\soundbox\ui\led\pwm_led_api.c" open="1" top="0" tabpos="59">
+		<Cursor position="17562" topLine="555" />
+	</File>
+	<File name="include_lib\media\media_develop\media\includes.h" open="1" top="0" tabpos="235">
+		<Cursor position="525" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\eq_config.h" open="1" top="0" tabpos="27">
+		<Cursor position="6229" topLine="205" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_midi_file.c" open="1" top="0" tabpos="265">
+		<Cursor position="5852" topLine="178" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_smartbox\board_ac695x_smartbox.h" open="1" top="0" tabpos="38">
+		<Cursor position="30918" topLine="596" />
+	</File>
+	<File name="cpu\br23\audio_common\app_audio.c" open="1" top="0" tabpos="16">
+		<Cursor position="7661" topLine="231" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\dev_manager\dev_manager.h" open="1" top="0" tabpos="15">
+		<Cursor position="303" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_key_fun.c" open="1" top="0" tabpos="7">
+		<Cursor position="8438" topLine="257" />
+	</File>
+	<File name="apps\common\usb\device\uac1.c" open="1" top="0" tabpos="303">
+		<Cursor position="15507" topLine="347" />
+	</File>
+	<File name="apps\soundbox\power_manage\app_power_manage.c" open="1" top="0" tabpos="210">
+		<Cursor position="3077" topLine="111" />
+	</File>
+	<File name="cpu\br23\clock_manager.c" open="1" top="0" tabpos="274">
+		<Cursor position="1060" topLine="23" />
+	</File>
+	<File name="apps\common\device\fm\fm_inside\fm_inside.h" open="1" top="0" tabpos="267">
+		<Cursor position="1217" topLine="0" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\le_client_demo.c" open="1" top="0" tabpos="308">
+		<Cursor position="40281" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\linein\linein.c" open="1" top="0" tabpos="53">
+		<Cursor position="3320" topLine="118" />
+	</File>
+	<File name="cpu\br23\audio_enc\audio_enc_recoder.c" open="1" top="0" tabpos="149">
+		<Cursor position="10212" topLine="293" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\music\music.h" open="1" top="0" tabpos="170">
+		<Cursor position="210" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac6954a_demo\board_ac6954a_demo.c" open="1" top="0" tabpos="240">
+		<Cursor position="2736" topLine="95" />
+	</File>
+	<File name="apps\soundbox\smartbox\cmd_data_deal\cmd_recieve.c" open="1" top="0" tabpos="197">
+		<Cursor position="2219" topLine="52" />
+	</File>
+	<File name="cpu\br23\localtws\localtws_dec.c" open="1" top="0" tabpos="151">
+		<Cursor position="2111" topLine="56" />
+	</File>
+	<File name="apps\common\device\fm_emitter\qn8007\qn8007.h" open="1" top="0" tabpos="211">
+		<Cursor position="585" topLine="0" />
+	</File>
+	<File name="apps\soundbox\task_manager\rtc\alarm_user.c" open="1" top="0" tabpos="177">
+		<Cursor position="811" topLine="11" />
+	</File>
+	<File name="include_lib\system\device\key_driver.h" open="1" top="0" tabpos="126">
+		<Cursor position="417" topLine="6" />
+	</File>
+	<File name="apps\soundbox\smartbox\event.c" open="1" top="0" tabpos="51">
+		<Cursor position="5267" topLine="122" />
+	</File>
+	<File name="cpu\br23\spi_test.c" open="1" top="0" tabpos="273">
+		<Cursor position="3839" topLine="110" />
+	</File>
+	<File name="apps\common\key\key_driver.c" open="1" top="0" tabpos="99">
+		<Cursor position="7960" topLine="183" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcd_seg3x9_driver.c" open="1" top="0" tabpos="55">
+		<Cursor position="95" topLine="273" />
+	</File>
+	<File name="apps\soundbox\ui\color_led\driver\color_led_driver.c" open="1" top="0" tabpos="246">
+		<Cursor position="393" topLine="0" />
+	</File>
+	<File name="apps\common\file_operate\file_manager.c" open="1" top="0" tabpos="171">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="include_lib\driver\device\usb\otg.h" open="1" top="0" tabpos="214">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\JL_rcsp\adv_app_setting\adv_mic_setting.c" open="1" top="0" tabpos="286">
+		<Cursor position="2381" topLine="81" />
+	</File>
+	<File name="cpu\br23\ui_driver\led7\led7_driver.c" open="1" top="0" tabpos="63">
+		<Cursor position="11560" topLine="390" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_bt.c" open="1" top="0" tabpos="84">
+		<Cursor position="201" topLine="7" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\rdec.h" open="1" top="0" tabpos="134">
+		<Cursor position="473" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\ui\ui_style.h" open="1" top="0" tabpos="67">
+		<Cursor position="1273" topLine="4" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_rtc.c" open="1" top="0" tabpos="92">
+		<Cursor position="1749" topLine="286" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_box.c" open="1" top="0" tabpos="198">
+		<Cursor position="3273" topLine="69" />
+	</File>
+	<File name="include_lib\media\media_develop\media\cpu\br23\asm\hw_eq.h" open="1" top="0" tabpos="314">
+		<Cursor position="314" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_equalloudness.h" open="1" top="0" tabpos="311">
+		<Cursor position="1486" topLine="24" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting_opt\smartbox_setting_opt.c" open="1" top="0" tabpos="40">
+		<Cursor position="987" topLine="33" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\key_table\irkey_table.c" open="1" top="0" tabpos="253">
+		<Cursor position="4033" topLine="77" />
+		<BrowseMarks positions="2937" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_record.c" open="1" top="0" tabpos="74">
+		<Cursor position="178" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_ui.h" open="1" top="0" tabpos="186">
+		<Cursor position="446" topLine="9" />
+	</File>
+	<File name="include_lib\media\media_develop\media\esco_decoder.h" open="1" top="0" tabpos="157">
+		<Cursor position="100" topLine="0" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_linein.c" open="1" top="0" tabpos="113">
+		<Cursor position="9200" topLine="262" />
+	</File>
+	<File name="include_lib\system\os\os_type.h" open="1" top="0" tabpos="217">
+		<Cursor position="376" topLine="0" />
+	</File>
+	<File name="apps\common\ui\lcdseg\lcdseg_ui_api.c" open="1" top="0" tabpos="93">
+		<Cursor position="12915" topLine="407" />
+	</File>
+	<File name="cpu\br23\adc_api.c" open="1" top="0" tabpos="11">
+		<Cursor position="11439" topLine="456" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\common\user_cfg.c" open="1" top="0" tabpos="203">
+		<Cursor position="2950" topLine="76" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_emitter.c" open="1" top="0" tabpos="192">
+		<Cursor position="25546" topLine="888" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_tone.c" open="1" top="0" tabpos="165">
+		<Cursor position="72" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\bt\bt.h" open="1" top="0" tabpos="128">
+		<Cursor position="5805" topLine="124" />
+	</File>
+	<File name="apps\common\device\fm\bk1080\Bk1080.c" open="1" top="0" tabpos="225">
+		<Cursor position="5201" topLine="210" />
+	</File>
+	<File name="include_lib\media\media_develop\media\cpu\br23\asm\cpu_includes.h" open="1" top="0" tabpos="313">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\app_main.h" open="1" top="0" tabpos="94">
+		<Cursor position="2373" topLine="48" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\fm\fm_rw.c" open="1" top="0" tabpos="32">
+		<Cursor position="7942" topLine="257" />
+	</File>
+	<File name="apps\soundbox\smartbox\bt_manage\smartbox_bt_manage.c" open="1" top="0" tabpos="178">
+		<Cursor position="10439" topLine="323" />
+	</File>
+	<File name="cpu\br23\localtws\localtws.c" open="1" top="0" tabpos="294">
+		<Cursor position="11086" topLine="337" />
+	</File>
+	<File name="apps\soundbox\task_manager\record\record.c" open="1" top="0" tabpos="127">
+		<Cursor position="2075" topLine="60" />
+	</File>
+	<File name="cpu\br23\audio_mic\effect_cfg.c" open="1" top="0" tabpos="36">
+		<Cursor position="493" topLine="0" />
+	</File>
+	<File name="cpu\br23\setup.c" open="1" top="0" tabpos="199">
+		<Cursor position="3966" topLine="189" />
+	</File>
+	<File name="include_lib\system\timer.h" open="1" top="0" tabpos="103">
+		<Cursor position="3731" topLine="104" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\cpu.h" open="1" top="0" tabpos="191">
+		<Cursor position="3348" topLine="153" />
+	</File>
+	<File name="apps\common\key\iokey.c" open="1" top="0" tabpos="100">
+		<Cursor position="3747" topLine="120" />
+	</File>
+	<File name="include_lib\btstack\btstack_event.h" open="1" top="0" tabpos="327">
+		<Cursor position="0" topLine="6485" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\smartbox\function.c" open="1" top="0" tabpos="43">
+		<Cursor position="17117" topLine="453" />
+	</File>
+	<File name="apps\common\third_party_profile\common\3th_profile_api.h" open="1" top="0" tabpos="324">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcd1621.c" open="1" top="0" tabpos="315">
+		<Cursor position="3869" topLine="114" />
+	</File>
+	<File name="apps\soundbox\include\tone_player.h" open="1" top="0" tabpos="112">
+		<Cursor position="344" topLine="4" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\power_interface.h" open="1" top="0" tabpos="110">
+		<Cursor position="1742" topLine="54" />
+	</File>
+	<File name="apps\soundbox\include\ui\ui_api.h" open="1" top="0" tabpos="12">
+		<Cursor position="1950" topLine="46" />
+	</File>
+	<File name="apps\common\audio\sine_make.c" open="1" top="0" tabpos="189">
+		<Cursor position="4571" topLine="72" />
+	</File>
+	<File name="include_lib\system\generic\log.h" open="1" top="0" tabpos="268">
+		<Cursor position="2363" topLine="69" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_pc.c" open="1" top="0" tabpos="90">
+		<Cursor position="132" topLine="0" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\uart_dev.h" open="1" top="0" tabpos="230">
+		<Cursor position="4135" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_eq.h" open="1" top="0" tabpos="35">
+		<Cursor position="3258" topLine="101" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\key_table\adkey_table.c" open="1" top="0" tabpos="6">
+		<Cursor position="6983" topLine="270" />
+	</File>
+	<File name="apps\common\usb\usb_common_def.h" open="1" top="0" tabpos="218">
+		<Cursor position="2612" topLine="22" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_music.c" open="1" top="0" tabpos="72">
+		<Cursor position="4727" topLine="183" />
+	</File>
+	<File name="include_lib\media\media_develop\media\effectrs_sync.h" open="1" top="0" tabpos="234">
+		<Cursor position="6868" topLine="186" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_fm.c" open="1" top="0" tabpos="114">
+		<Cursor position="9189" topLine="269" />
+	</File>
+	<File name="apps\soundbox\user_api\dev_multiplex_api.c" open="1" top="0" tabpos="215">
+		<Cursor position="3681" topLine="128" />
+	</File>
+	<File name="apps\common\config\ci_transport_uart.c" open="1" top="0" tabpos="317">
+		<Cursor position="4442" topLine="40" />
+	</File>
+	<File name="apps\soundbox\common\task_table.c" open="1" top="0" tabpos="10">
+		<Cursor position="1783" topLine="15" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt.c" open="1" top="0" tabpos="45">
+		<Cursor position="6495" topLine="242" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_spdif.c" open="1" top="0" tabpos="298">
+		<Cursor position="16081" topLine="471" />
+	</File>
+	<File name="cpu\br23\charge.c" open="1" top="0" tabpos="213">
+		<Cursor position="5278" topLine="221" />
+	</File>
+	<File name="apps\common\device\detection.c" open="1" top="0" tabpos="80">
+		<Cursor position="359" topLine="25" />
+	</File>
+	<File name="apps\soundbox\task_manager\fm\fm.c" open="1" top="0" tabpos="130">
+		<Cursor position="4028" topLine="212" />
+	</File>
+	<File name="cpu\br23\audio_enc\audio_enc.c" open="1" top="0" tabpos="272">
+		<Cursor position="4372" topLine="145" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\fm\fm_manage.h" open="1" top="0" tabpos="34">
+		<Cursor position="2133" topLine="55" />
+	</File>
+	<File name="apps\common\device\fm\rda5807\RDA5807.h" open="1" top="0" tabpos="243">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\trans_data_demo\le_trans_data.h" open="1" top="0" tabpos="329">
+		<Cursor position="141" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\power_off\power_off.c" open="1" top="0" tabpos="117">
+		<Cursor position="4934" topLine="137" />
+	</File>
+	<File name="cpu\br23\audio_enc\audio_sbc_codec.c" open="1" top="0" tabpos="293">
+		<Cursor position="11126" topLine="391" />
+	</File>
+	<File name="include_lib\system\syscfg_id.h" open="1" top="0" tabpos="31">
+		<Cursor position="1867" topLine="17" />
+	</File>
+	<File name="apps\soundbox\task_manager\task_key.c" open="1" top="0" tabpos="122">
+		<Cursor position="5362" topLine="125" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\common\key\adkey_rtcvdd.c" open="1" top="0" tabpos="104">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include_lib\system\event.h" open="1" top="0" tabpos="125">
+		<Cursor position="3698" topLine="307" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\smartbox\func_cmd\music_func.c" open="1" top="0" tabpos="204">
+		<Cursor position="752" topLine="38" />
+	</File>
+	<File name="apps\soundbox\third_party_profile\trans_data_demo\trans_data_demo.c" open="1" top="0" tabpos="262">
+		<Cursor position="556" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\gpio.h" open="1" top="0" tabpos="105">
+		<Cursor position="4126" topLine="103" />
+	</File>
+	<File name="apps\common\music\breakpoint.h" open="1" top="0" tabpos="249">
+		<Cursor position="385" topLine="0" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\JL_rcsp\adv_app_setting\adv_key_setting.c" open="1" top="0" tabpos="123">
+		<Cursor position="3296" topLine="132" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting\adv_mic_setting.c" open="1" top="0" tabpos="281">
+		<Cursor position="2379" topLine="80" />
+	</File>
+	<File name="apps\soundbox\ui\lcd\STYLE_02\music_action.c" open="1" top="0" tabpos="144">
+		<Cursor position="7198" topLine="25" />
+	</File>
+	<File name="apps\soundbox\include\ui\led7\led7_driver.h" open="1" top="0" tabpos="78">
+		<Cursor position="1391" topLine="20" />
+	</File>
+	<File name="apps\common\audio\encode\encode_write.h" open="1" top="0" tabpos="162">
+		<Cursor position="186" topLine="0" />
+	</File>
+	<File name="apps\common\rec_nor\nor_interface.c" open="1" top="0" tabpos="140">
+		<Cursor position="132" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_linein.c" open="1" top="0" tabpos="88">
+		<Cursor position="339" topLine="6" />
+	</File>
+	<File name="apps\common\audio\uartPcmSender.c" open="1" top="0" tabpos="229">
+		<Cursor position="77" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\log_config\lib_btctrler_config.c" open="1" top="0" tabpos="256">
+		<Cursor position="662" topLine="7" />
+	</File>
+	<File name="include_lib\driver\cpu\br23\asm\br23.h" open="1" top="0" tabpos="247">
+		<Cursor position="21664" topLine="710" />
+	</File>
+	<File name="apps\common\usb\host\usb_storage.c" open="1" top="0" tabpos="222">
+		<Cursor position="2730" topLine="215" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\board_ac695x_demo.c" open="1" top="0" tabpos="8">
+		<Cursor position="927" topLine="23" />
+		<BrowseMarks positions="13280,13899" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_idle.c" open="1" top="0" tabpos="70">
+		<Cursor position="102" topLine="0" />
+	</File>
+	<File name="include_lib\driver\device\uart.h" open="1" top="0" tabpos="226">
+		<Cursor position="1212" topLine="45" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_output_dac.h" open="1" top="0" tabpos="98">
+		<Cursor position="398" topLine="0" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_file.c" open="1" top="0" tabpos="146">
+		<Cursor position="30488" topLine="1032" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac6951g\board_ac6951g.c" open="1" top="0" tabpos="111">
+		<Cursor position="25344" topLine="713" />
+	</File>
+	<File name="include_lib\media\media_develop\media\audio_decoder.h" open="1" top="0" tabpos="154">
+		<Cursor position="1946" topLine="81" />
+	</File>
+	<File name="apps\soundbox\common\dev_status.c" open="1" top="0" tabpos="135">
+		<Cursor position="5284" topLine="155" />
+	</File>
+	<File name="apps\soundbox\task_manager\app_common.c" open="1" top="0" tabpos="23">
+		<Cursor position="4302" topLine="141" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_record.c" open="1" top="0" tabpos="205">
+		<Cursor position="3404" topLine="83" />
+	</File>
+	<File name="apps\common\update\update.c" open="1" top="0" tabpos="120">
+		<Cursor position="12553" topLine="427" />
+	</File>
+	<File name="cpu\br23\audio_config.h" open="1" top="0" tabpos="18">
+		<Cursor position="321" topLine="14" />
+		<BrowseMarks positions="2698" />
+	</File>
+	<File name="cpu\br23\audio_mic\mic_stream.c" open="1" top="0" tabpos="300">
+		<Cursor position="7546" topLine="209" />
+	</File>
+	<File name="apps\common\dev_manager\dev_update.c" open="1" top="0" tabpos="200">
+		<Cursor position="3397" topLine="115" />
+	</File>
+	<File name="apps\soundbox\include\app_action.h" open="1" top="0" tabpos="176">
+		<Cursor position="1715" topLine="13" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_tws.c" open="1" top="0" tabpos="282">
+		<Cursor position="21910" topLine="778" />
+	</File>
+	<File name="cpu\br23\audio_effect\eq_config.c" open="1" top="0" tabpos="22">
+		<Cursor position="35500" topLine="865" />
+		<BrowseMarks positions="35333" />
+	</File>
+	<File name="apps\soundbox\include\common\app_common.h" open="1" top="0" tabpos="77">
+		<Cursor position="110" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\music\music.c" open="1" top="0" tabpos="136">
+		<Cursor position="6547" topLine="190" />
+		<BrowseMarks positions="17348,23132,31697" />
+	</File>
+	<File name="cpu\br23\audio_enc\audio_recorder_mix.c" open="1" top="0" tabpos="150">
+		<Cursor position="20165" topLine="660" />
+	</File>
+	<File name="include_lib\system\device\device.h" open="1" top="0" tabpos="172">
+		<Cursor position="1164" topLine="28" />
+	</File>
+	<File name="apps\common\device\gSensor\EPMotion.h" open="1" top="0" tabpos="109">
+		<Cursor position="1997" topLine="39" />
+	</File>
+	<File name="apps\common\key\ad_knob.c" open="1" top="0" tabpos="102">
+		<Cursor position="86" topLine="0" />
+	</File>
+	<File name="include_lib\btstack\avctp_user.h" open="1" top="0" tabpos="118">
+		<Cursor position="1035" topLine="25" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\smartbox\func_cmd\fm_func.c" open="1" top="0" tabpos="196">
+		<Cursor position="7828" topLine="241" />
+	</File>
+	<File name="cpu\br23\uart_test.c" open="1" top="0" tabpos="228">
+		<Cursor position="1967" topLine="54" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting\adv_key_setting.c" open="1" top="0" tabpos="124">
+		<Cursor position="3344" topLine="139" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\JL_rcsp\adv_app_setting\adv_eq_setting.h" open="1" top="0" tabpos="47">
+		<Cursor position="250" topLine="0" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcdseg.h" open="1" top="0" tabpos="160">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\lcd\STYLE_02\file_brower.c" open="1" top="0" tabpos="201">
+		<Cursor position="730" topLine="17" />
+	</File>
+	<File name="apps\soundbox\include\ui\lcd_seg\lcd_seg3x9_driver.h" open="1" top="0" tabpos="96">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\common\audio\audio_digital_vol.h" open="1" top="0" tabpos="132">
+		<Cursor position="0" topLine="6" />
+	</File>
+	<File name="apps\common\music\music_player.c" open="1" top="0" tabpos="137">
+		<Cursor position="3937" topLine="138" />
+		<BrowseMarks positions="383,383" />
+	</File>
+	<File name="include_lib\system\generic\jiffies.h" open="1" top="0" tabpos="275">
+		<Cursor position="497" topLine="0" />
+	</File>
+	<File name="apps\soundbox\include\key_event_deal.h" open="1" top="0" tabpos="50">
+		<Cursor position="1555" topLine="59" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting\smartbox_high_low_vol_setting.c" open="1" top="0" tabpos="309">
+		<Cursor position="1372" topLine="38" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_fm_emitter.c" open="1" top="0" tabpos="86">
+		<Cursor position="2500" topLine="70" />
+	</File>
+	<File name="apps\soundbox\include\user_cfg_id.h" open="1" top="0" tabpos="30">
+		<Cursor position="3003" topLine="61" />
+	</File>
+	<File name="include_lib\system\includes.h" open="1" top="0" tabpos="318">
+		<Cursor position="139" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_fm.c" open="1" top="0" tabpos="69">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_ctrl.h" open="1" top="0" tabpos="185">
+		<Cursor position="292" topLine="0" />
+	</File>
+	<File name="apps\soundbox\module\ble_app_module.c" open="1" top="1" tabpos="423">
+		<Cursor position="2603" topLine="194" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_bt.c" open="1" top="0" tabpos="279">
+		<Cursor position="32094" topLine="1053" />
+	</File>
+	<File name="apps\soundbox\aec\br23\audio_aec.c" open="1" top="0" tabpos="24">
+		<Cursor position="4909" topLine="168" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_config.h" open="1" top="0" tabpos="1">
+		<Cursor position="2394" topLine="6" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec_pc.c" open="1" top="0" tabpos="301">
+		<Cursor position="10503" topLine="330" />
+	</File>
+	<File name="cpu\br23\audio_common\audio_link.c" open="1" top="0" tabpos="271">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include_lib\system\app_msg.h" open="1" top="0" tabpos="131">
+		<Cursor position="321" topLine="0" />
+	</File>
+	<File name="cpu\br23\audio_mic\mic_effect.c" open="1" top="0" tabpos="284">
+		<Cursor position="15132" topLine="419" />
+	</File>
+	<File name="apps\common\dev_manager\dev_reg.c" open="1" top="0" tabpos="161">
+		<Cursor position="1173" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\cpu\br23\asm\audio_adc.h" open="1" top="0" tabpos="237">
+		<Cursor position="1938" topLine="41" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\JL_rcsp\bt_trans_data\le_rcsp_adv_module.h" open="1" top="0" tabpos="29">
+		<Cursor position="5577" topLine="113" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\bt\bt_product_test.c" open="1" top="0" tabpos="302">
+		<Cursor position="636" topLine="0" />
+	</File>
+	<File name="apps\common\usb\device\uac_stream.c" open="1" top="0" tabpos="97">
+		<Cursor position="6016" topLine="268" />
+	</File>
+	<File name="apps\soundbox\smartbox\browser\browser.c" open="1" top="0" tabpos="202">
+		<Cursor position="10293" topLine="358" />
+	</File>
+	<File name="apps\common\device\fm\fm_manage.c" open="1" top="0" tabpos="2">
+		<Cursor position="4228" topLine="141" />
+	</File>
+	<File name="apps\common\third_party_profile\jieli\le_client_demo.h" open="1" top="0" tabpos="326">
+		<Cursor position="2352" topLine="27" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\include\app_task.h" open="1" top="0" tabpos="119">
+		<Cursor position="57" topLine="1" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\task_manager\linein\linein_api.c" open="1" top="0" tabpos="115">
+		<Cursor position="4824" topLine="134" />
+	</File>
+	<File name="include_lib\btctrler\btcontroller_modules.h" open="1" top="0" tabpos="287">
+		<Cursor position="2585" topLine="67" />
+	</File>
+	<File name="apps\soundbox\include\task_manager\music\music_ui.h" open="1" top="0" tabpos="304">
+		<Cursor position="720" topLine="0" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="cpu\br23\mcpwm.c" open="1" top="0" tabpos="107">
+		<Cursor position="10152" topLine="327" />
+	</File>
+	<File name="apps\soundbox\task_manager\rtc\rtc.c" open="1" top="0" tabpos="163">
+		<Cursor position="17832" topLine="656" />
+	</File>
+	<File name="include_lib\btctrler\port\br23\btcontroller_config.h" open="1" top="0" tabpos="288">
+		<Cursor position="1137" topLine="8" />
+	</File>
+	<File name="cpu\br23\uart_bt_product.c" open="1" top="0" tabpos="209">
+		<Cursor position="3176" topLine="66" />
+	</File>
+	<File name="apps\common\device\gSensor\mira_std.h" open="1" top="0" tabpos="145">
+		<Cursor position="4455" topLine="48" />
+	</File>
+	<File name="apps\common\key\rdec_key.c" open="1" top="0" tabpos="133">
+		<Cursor position="1317" topLine="10" />
+	</File>
+	<File name="cpu\br23\ui_driver\lcd_seg\lcd_seg3x9_driver_cfg.h" open="1" top="0" tabpos="56">
+		<Cursor position="0" topLine="53" />
+	</File>
+	<File name="apps\soundbox\ui\lcd\STYLE_02\bt_action.c" open="1" top="0" tabpos="26">
+		<Cursor position="8762" topLine="355" />
+	</File>
+	<File name="apps\common\music\music_id3.c" open="1" top="0" tabpos="231">
+		<Cursor position="469" topLine="17" />
+	</File>
+	<File name="apps\soundbox\include\common\user_msg.h" open="1" top="0" tabpos="425">
+		<Cursor position="48" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\lcdseg\ui_common.c" open="1" top="0" tabpos="83">
+		<Cursor position="12947" topLine="541" />
+		<BrowseMarks positions="4586,4639,5252,5831" />
+	</File>
+	<File name="apps\soundbox\include\ui_manage.h" open="1" top="0" tabpos="180">
+		<Cursor position="1321" topLine="29" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_tws_box\board_ac695x_tws_box.h" open="1" top="0" tabpos="108">
+		<Cursor position="10113" topLine="194" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_dec_app.h" open="1" top="0" tabpos="153">
+		<Cursor position="2844" topLine="71" />
+	</File>
+	<File name="include_lib\system\generic\typedef.h" open="1" top="0" tabpos="49">
+		<Cursor position="3511" topLine="102" />
+	</File>
+	<File name="include_lib\system\user_cfg.h" open="1" top="0" tabpos="289">
+		<Cursor position="3069" topLine="56" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_bt.c" open="1" top="0" tabpos="61">
+		<Cursor position="196" topLine="0" />
+	</File>
+	<File name="apps\common\charge_box\chgbox_box.h" open="1" top="0" tabpos="184">
+		<Cursor position="479" topLine="0" />
+	</File>
+	<File name="include_lib\media\media_develop\media\application\audio_equalloudness_eq.h" open="1" top="0" tabpos="312">
+		<Cursor position="1569" topLine="1" />
+	</File>
+	<File name="apps\soundbox\smartbox\smartbox_setting_opt\smartbox_setting_opt.h" open="1" top="0" tabpos="39">
+		<Cursor position="1115" topLine="0" />
+	</File>
+	<File name="cpu\br23\audio_dec\audio_dec.c" open="1" top="0" tabpos="4">
+		<Cursor position="2525" topLine="91" />
+		<BrowseMarks positions="10045" />
+	</File>
+	<File name="include_lib\system\os\FreeRTOS\pi32v2\portmacro.h" open="1" top="0" tabpos="207">
+		<Cursor position="6406" topLine="132" />
+	</File>
+	<File name="apps\soundbox\include\soundbox.h" open="1" top="0" tabpos="129">
+		<Cursor position="3340" topLine="42" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="apps\soundbox\board\br23\board_ac695x_demo\key_table\rdec_key_table.c" open="1" top="0" tabpos="254">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="apps\soundbox\ui\led7\ui_rtc.c" open="1" top="0" tabpos="75">
+		<Cursor position="6049" topLine="237" />
+	</File>
+	<File name="include_lib\media\media_develop\media\file_decoder.h" open="1" top="0" tabpos="142">
+		<Cursor position="1452" topLine="7" />
+	</File>
+	<File name="apps\common\ui\led7\led7_ui_api.c" open="1" top="0" tabpos="13">
+		<Cursor position="12911" topLine="407" />
+	</File>
+</BrowseTracker_layout_file>
